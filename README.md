@@ -3,5 +3,5 @@
 
 ## Instructions
 
-###npm install
-###expo start
+npm install  
+expo start
